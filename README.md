@@ -2,8 +2,8 @@ Jerrod Packard
 January 9, 2024
 Mini Challenge Two to Four - Endpoints
 Created a web api with three endpoints; one to sum two numbers, one to output the user's name and wake up time, and one to compare two numbers to see which is greater than or less than.
-Peer Review: 
-Peer Review Comments: 
+Peer Review: Avery Hillstrom
+Peer Review Comments: Code runs very well and validates data! The endpoints all work as described and output successful results each time. If you try to enter text values into the numerical endpoints it returns a statement telling the user to check they are only entering numbers. Was having trouble getting data to show up using Postman but that may be an error on my end because the code worked perfectly on swagger and I couldn't find any errors or missing variables when I went through it. Overall extremely solid code with a neat execution, great job!
 
 Pseudo Code:
 Sum two numbers
